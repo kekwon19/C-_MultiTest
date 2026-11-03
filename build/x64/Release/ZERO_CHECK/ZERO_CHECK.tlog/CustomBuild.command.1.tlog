@@ -1,0 +1,10 @@
+^C:\USERS\SA070\ONEDRIVE\바탕 화면\MULTITEST\BUILD\CMAKEFILES\2DD7A24D6FC2E01ED12E66D600099FF3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/sa070/OneDrive/바탕 화면/MultiTest" "-BC:/Users/sa070/OneDrive/바탕 화면/MultiTest/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/sa070/OneDrive/바탕 화면/MultiTest/build/MultiTest.slnx"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

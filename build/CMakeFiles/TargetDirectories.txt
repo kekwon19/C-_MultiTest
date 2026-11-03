@@ -1,0 +1,3 @@
+C:/Users/sa070/OneDrive/바탕 화면/MultiTest/build/CMakeFiles/MultiTest.dir
+C:/Users/sa070/OneDrive/바탕 화면/MultiTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sa070/OneDrive/바탕 화면/MultiTest/build/CMakeFiles/ZERO_CHECK.dir
