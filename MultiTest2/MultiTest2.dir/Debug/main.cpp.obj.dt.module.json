@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MultiTest2.dir\\Debug\\main.obj",
+            "outputs": [
+                "MultiTest2.dir\\Debug\\main.cpp.obj.dt.module.json",
+                "MultiTest2.dir\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
